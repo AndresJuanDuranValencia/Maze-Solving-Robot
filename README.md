@@ -6,12 +6,12 @@ Here you can find all the information regarding the assembled circuit, the progr
 
 https://www.microchip.com/Developmenttools/ProductDetails/EV09Z19A
 
-Microcontrolador utilizado:
+Microcontrolador utilizado: /n
 ![image](https://user-images.githubusercontent.com/80593258/119589079-b63b8f00-bd97-11eb-91c7-8679c418f4e9.png)
 
-Robot construido:
+Robot construido: /n
 ![image](https://user-images.githubusercontent.com/80593258/119589164-e3883d00-bd97-11eb-8d73-7f45f639fc0e.png)
 
-Sensores utilizados:
+Sensores utilizados: /n
 ![image](https://user-images.githubusercontent.com/80593258/119589217-f7cc3a00-bd97-11eb-8523-c51fa7a16f41.png)
 
